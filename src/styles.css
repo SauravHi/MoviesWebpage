@@ -1,0 +1,14 @@
+.App {
+  margin: 0;
+  padding: 0 0 0 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* This class gets applied to our Navigation Bar */
+.navbar {
+  margin-bottom: 10px;
+}
+.clickable {
+  cursor: pointer;
+}
